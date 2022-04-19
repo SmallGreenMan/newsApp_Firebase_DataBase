@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327900171246",
+    "firebase_url": "https://testdb-6da34-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testdb-6da34",
+    "storage_bucket": "testdb-6da34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327900171246:android:00b8405f92172c75875cff",
+        "android_client_info": {
+          "package_name": "com.gmail.avoishel.neesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327900171246-6jugddn77bfhfmlglmkb69j5igc9isrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCawj9xaKBfesOwhAFV68HNW1HedHTkVgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327900171246-6jugddn77bfhfmlglmkb69j5igc9isrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
