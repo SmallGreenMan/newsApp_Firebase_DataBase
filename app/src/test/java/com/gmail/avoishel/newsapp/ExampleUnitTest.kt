@@ -1,4 +1,4 @@
-package com.gmail.avoishel.neesapp
+package com.gmail.avoishel.newsapp
 
 import org.junit.Test
 

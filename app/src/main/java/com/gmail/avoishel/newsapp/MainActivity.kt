@@ -1,4 +1,4 @@
-package com.gmail.avoishel.neesapp
+package com.gmail.avoishel.newsapp
 
 import android.content.ContentValues.TAG
 import androidx.appcompat.app.AppCompatActivity
